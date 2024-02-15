@@ -1,2 +1,0 @@
-# ComposeBasicCodelab
-Into to Compose
